@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mr Whiskers Github Profile</h1>
-<h3 align="center">A passionate Penertration Tester and aspiring tool creator. Side I.T projects include self hosting web services within my home lab and hoarding more data than should be allowed within a home network. (100TB Plus!)</h3>
+<h3 align="center">A passionate Penertration Tester and aspiring tool creator. 
+Side I.T projects include self hosting web services within my home lab and hoarding more data than should be allowed within a home network. (100TB Plus!)</h3>
 
 <p align="left"> <a href="https://twitter.com/secmrwhiskers" target="blank"><img src="https://img.shields.io/twitter/follow/secmrwhiskers?logo=twitter&style=for-the-badge" alt="secmrwhiskers" /></a> </p>
 
-- 🔭 I’m currently working on [Basic Web app enumerator tool](https://github.com/Mr-Whiskerss/Web-Application-Enumeration-)
+- I’m currently working on [Basic Web app enumerator tool](https://github.com/Mr-Whiskerss/Web-Application-Enumeration-)
 
-- 🌱 I’m currently learning **AZ900 as my current certifcate goal for this month!**
+- I’m currently learning **AZ900 as my current certifcate goal for this month!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mr-Whiskerss](https://github.com/Mr-Whiskerss)
+- All of my projects are available at [https://github.com/Mr-Whiskerss](https://github.com/Mr-Whiskerss)
 
-- 📫 How to reach me **https://twitter.com/SecMrwhiskers**
+- How to reach me **https://twitter.com/SecMrwhiskers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
