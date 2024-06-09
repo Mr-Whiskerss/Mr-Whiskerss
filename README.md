@@ -1,5 +1,8 @@
 # 💫 About Me:
-A passionate Penertration Tester and Aspiring Tool creator.<br>Side I.T projects include...<br>* self hosting web services within my home lab. <br>* Data hoarding more than should be allowed within a home network. (100TB Plus!)<br>* Competing in CTFS.<br>* Compling pentest notes within my second brain.
+A passionate Penertration Tester and Aspiring Tool creator.<br>Side I.T projects include...
+<br>* self hosting web services within my home lab. 
+<br>* Data hoarding more than should be allowed within a home network. (100TB Plus!)
+<br>* Competing in CTFS.<br>* Compling pentest notes within my second brain.
 
 
 ## 🌐 Socials:
