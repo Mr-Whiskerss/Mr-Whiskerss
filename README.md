@@ -5,6 +5,7 @@ A passionate Penertration Tester and Aspiring Tool creator.<br>Side I.T projects
 * Data hoarding more than should be allowed within a home network. (100TB Plus!)
 * Competing in CTFS.
 * Compling pentest notes within my second brain.
+* Creating automation scripts so you can focus on the fun stuff!
 
 
 ## 🌐 Socials:
