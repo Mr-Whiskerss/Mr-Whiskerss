@@ -1,4 +1,4 @@
-# Daniel Little
+# Mr Whiskers
 
 A passionate penetration tester and aspiring tool creator. My side IT projects include...
 
