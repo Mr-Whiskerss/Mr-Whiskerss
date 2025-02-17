@@ -14,7 +14,7 @@ A passionate penetration tester and aspiring tool creator. My side IT projects i
 Here are some links to connect with me:
 
 - [LinkedIn Profile](https://linkedin.com/in/daniel-little-b4a171101) | LinkedIn
-- [Stack Overflow Profile](https://stackoverflow.com/users/mrwhsikers/mrwhsikers) | Stack Overflow
+- [Stack Overflow Profile](https://stackoverflow.com/users/10790103/mrwhsikers) | Stack Overflow
 
 ---
 
