@@ -14,7 +14,7 @@ Adversary simulation tester at **Jumpsec** with a passion for offensive security
 
 ### 🎯 What I'm Up To
 
-- 🔴 **Day Job:** Penetration testing and security assessments
+- 🔴 **Day Job:** Adversary simulation and security assessments
 - 🏠 **Home Lab:** Self-hosting services and experimenting with infrastructure
 - 💾 **Data Hoarding:** Managing 100TB+ of... research materials (yes, really!)
 - 🚩 **CTF Competitor:** Actively competing on various platforms
