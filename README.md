@@ -50,18 +50,6 @@ Adversary simulation tester at **Jumpsec** with a passion for offensive security
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Whiskerss&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Whiskerss&layout=compact&theme=dark&hide_border=true)
-  
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 ### 🔧 Automation & Enumeration
