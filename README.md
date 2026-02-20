@@ -5,17 +5,15 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ███╗   ███╗██████╗ ██╗    ██╗██╗  ██╗██╗███████╗██╗  ██╗     ║
-║   ████╗ ████║██╔══██╗██║    ██║██║  ██║██║██╔════╝██║ ██╔╝     ║
-║   ██╔████╔██║██████╔╝██║ █╗ ██║███████║██║███████╗█████╔╝      ║
-║   ██║╚██╔╝██║██╔══██╗██║███╗██║██╔══██║██║╚════██║██╔═██╗      ║
-║   ██║ ╚═╝ ██║██║  ██║╚███╔███╔╝██║  ██║██║███████║██║  ██╗     ║
-║   ╚═╝     ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ║
-║                                                                  ║
-║            Penetration Tester  ·  Tool Builder  ·  CTF Player   ║
-╚══════════════════════════════════════════════════════════════════╝
+                             __      __     __                         __
+ /'\__/`\                   /\ \  __/\ \   /\ \         __            /\ \
+/\      \    _ __           \ \ \/\ \ \ \  \ \ \___    /\_\     ____  \ \ \/'\ 
+\ \ \__\ \  /\`'__\          \ \ \ \ \ \ \  \ \  _ `\  \/\ \   /',__\  \ \ , <  
+ \ \ \_/\ \ \ \ \/            \ \ \_/ \_\ \  \ \ \ \ \  \ \ \ /\__, `\  \ \ \\`\ 
+  \ \_\\ \_\ \ \_\             \ `\___x___/   \ \_\ \_\  \ \_\\/\____/   \ \_\ \_\
+   \/_/ \/_/  \/_/              '\/__//__/     \/_/\/_/   \/_/ \/___/     \/_/\/_/
+
+              Penetration Tester  ·  Tool Builder  ·  CTF Player
 ```
 
 [![Twitter](https://img.shields.io/badge/X-%40SecMrwhiskers-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SecMrwhiskers)
@@ -118,11 +116,49 @@ Automation scripts, enumeration tools, report generators
 
 **Security Tooling**
 
+*Recon & Scanning*
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00ADEF?style=flat-square&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-FF6600?style=flat-square&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-EF4444?style=flat-square&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-1E3A5F?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+*Exploitation & Post-Exploitation*
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-333333?style=flat-square&logoColor=white)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-000000?style=flat-square&logoColor=white)
+![Responder](https://img.shields.io/badge/Responder-8B0000?style=flat-square&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-5C1A1A?style=flat-square&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-0078D7?style=flat-square&logoColor=white)
+
+*Active Directory*
+![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square&logoColor=white)
+![Rubeus](https://img.shields.io/badge/Rubeus-8B0000?style=flat-square&logoColor=white)
+![PowerView](https://img.shields.io/badge/PowerView-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Kerbrute](https://img.shields.io/badge/Kerbrute-1A1A2E?style=flat-square&logoColor=white)
+
+*Password Attacks*
+![Hashcat](https://img.shields.io/badge/Hashcat-1A1A2E?style=flat-square&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-2D2D2D?style=flat-square&logoColor=white)
+
+*Cloud Security*
+![ScoutSuite](https://img.shields.io/badge/ScoutSuite-FF9900?style=flat-square&logoColor=white)
+![Prowler](https://img.shields.io/badge/Prowler-FF6633?style=flat-square&logoColor=white)
+![Pacu](https://img.shields.io/badge/Pacu-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+
+*Mobile*
+![MobSF](https://img.shields.io/badge/MobSF-3DDC84?style=flat-square&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-FF6B35?style=flat-square&logoColor=white)
+![Objection](https://img.shields.io/badge/Objection-7B2D8B?style=flat-square&logoColor=white)
+![APKTool](https://img.shields.io/badge/APKTool-A4C639?style=flat-square&logo=android&logoColor=white)
+
+*Platforms*
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
 **Cloud Platforms**
@@ -156,16 +192,7 @@ Automation scripts, enumeration tools, report generators
 
 ## Home Lab
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🖥️  Hypervisor  : Proxmox VE                               │
-│  💾  Storage     : 100TB+ NAS (NFS mounts)                  │
-│  🐳  Containers  : LXC for isolated service deployment       │
-│  🎬  Media       : Plex Media Server                        │
-│  🔒  Network     : Segmented VLANs, self-hosted DNS/VPN     │
-│  📝  Knowledge   : Obsidian — pentest methodology & tools   │
-└─────────────────────────────────────────────────────────────┘
-```
+When I'm not breaking things professionally, I'm breaking them at home — running Proxmox, hoarding 100TB+ of data I'll definitely need someday, and cosplaying as a sysadmin with my own VLANs, self-hosted services, and a NAS that has absolutely no business existing in a residential property. It's cheaper than therapy and twice as educational.
 
 ---
 
