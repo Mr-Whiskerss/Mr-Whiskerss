@@ -18,7 +18,7 @@
 
 [![Twitter](https://img.shields.io/badge/X-%40SecMrwhiskers-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SecMrwhiskers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Little-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-little-b4a171101/)
-[![Jumpsec](https://img.shields.io/badge/Employer-Jumpsec-E8212A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==&logoColor=white)](https://jumpsec.com)
+[![URM Consulting](https://img.shields.io/badge/Employer-URM%20Consulting-003087?style=flat-square&logoColor=white)](https://www.urmconsulting.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=flat-square&logo=hackthebox&logoColor=white)](https://app.hackthebox.com)
 [![Location](https://img.shields.io/badge/Location-England%2C%20UK-CF142B?style=flat-square&logo=gov.uk&logoColor=white)](#)
 
@@ -32,7 +32,7 @@
 ┌──(mrwhiskers㉿kali)-[~]
 └─$ cat about.txt
 
-  Role       : Penetration Tester @ Jumpsec
+  Role       : Penetration Tester @ URM Consulting
   Focus      : Web Applications · Active Directory · Cloud (AWS/Azure/GCP)
                Build Reviews · Mobile · Network Infrastructure
   Interests  : CTF Competitions · Tool Development · Home Lab · Automation
@@ -219,7 +219,7 @@ When I'm not breaking things professionally, I'm breaking them at home — runni
 |----------|------|
 | 🐦 Twitter / X | [@SecMrwhiskers](https://twitter.com/SecMrwhiskers) |
 | 💼 LinkedIn | [Daniel Little](https://www.linkedin.com/in/daniel-little-b4a171101/) |
-| 🏢 Employer | [Jumpsec](https://jumpsec.com) |
+| 🏢 Employer | [URM Consulting](https://www.urmconsulting.com) |
 | 💬 Stack Overflow | [MrWhiskers](https://stackoverflow.com/users/12071387/mrwhsikers) |
 
 </div>
