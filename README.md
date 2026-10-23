@@ -13,12 +13,12 @@
   \ \_\\ \_\ \ \_\             \ `\___x___/   \ \_\ \_\  \ \_\\/\____/   \ \_\ \_\
    \/_/ \/_/  \/_/              '\/__//__/     \/_/\/_/   \/_/ \/___/     \/_/\/_/
 
-              Penetration Tester  ·  Tool Builder  ·  CTF Player
+       Security Engineer  ·  Threat Researcher  ·  Tool Builder  ·  CTF Player
 ```
 
 [![Twitter](https://img.shields.io/badge/X-%40SecMrwhiskers-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SecMrwhiskers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Little-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-little-b4a171101/)
-[![URM Consulting](https://img.shields.io/badge/Employer-URM%20Consulting-003087?style=flat-square&logoColor=white)](https://www.urmconsulting.com)
+[![Immersive Labs](https://img.shields.io/badge/Employer-Immersive%20Labs%20%C2%B7%20Container%207-6E3CBC?style=flat-square&logoColor=white)](https://www.immersivelabs.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=flat-square&logo=hackthebox&logoColor=white)](https://app.hackthebox.com)
 [![Location](https://img.shields.io/badge/Location-England%2C%20UK-CF142B?style=flat-square&logo=gov.uk&logoColor=white)](#)
 
@@ -32,12 +32,15 @@
 ┌──(mrwhiskers㉿kali)-[~]
 └─$ cat about.txt
 
-  Role       : Threat Ressearcher @ Immersive Labs 
-  Focus      : Web Applications · Active Directory · Cloud (AWS/Azure/GCP)
+  Role       : Security Engineer / Threat Researcher @ Immersive Labs
+  Team       : Container 7
+  Background : Penetration testing & red teaming
+  Focus      : Threat Research · Emerging CVEs · Hands-on Lab Content
+               Web Applications · Active Directory · Cloud (AWS/Azure/GCP)
                Build Reviews · Mobile · Network Infrastructure
   Interests  : CTF Competitions · Tool Development · Home Lab · Automation
   Home Lab   : Proxmox · 100TB+ NAS · Self-hosted services
-  Notes      : Obsidian second brain for pentest methodology & tooling
+  Notes      : Obsidian second brain for methodology, research & tooling
   Status     : [ ACTIVE ] — always breaking something, always learning
 ```
 
@@ -47,6 +50,12 @@
 
 <table>
 <tr>
+<td align="center" width="180">
+
+**🔬 Threat Research**
+Emerging threats & CVEs, attacker tradecraft, turning research into hands-on labs
+
+</td>
 <td align="center" width="180">
 
 **🌐 Web Applications**
@@ -59,14 +68,14 @@ OWASP Top 10, API testing, auth bypass, injection, business logic flaws
 Kerberoasting, AS-REP, BloodHound, lateral movement, domain dominance
 
 </td>
+</tr>
+<tr>
 <td align="center" width="180">
 
 **☁️ Cloud Security**
 AWS, Azure & GCP assessments, IAM abuse, privilege escalation, misconfigs
 
 </td>
-</tr>
-<tr>
 <td align="center" width="180">
 
 **🔨 Build Reviews**
@@ -79,11 +88,17 @@ CIS benchmarking, hardening assessments across Windows, Linux & macOS
 Android & iOS application security testing, traffic interception, binary analysis
 
 </td>
+</tr>
+<tr>
 <td align="center" width="180">
 
 **🔧 Tool Development**
 Automation scripts, enumeration tools, report generators
 
+</td>
+<td align="center" width="180">
+</td>
+<td align="center" width="180">
 </td>
 </tr>
 </table>
@@ -192,7 +207,7 @@ Automation scripts, enumeration tools, report generators
 
 ## Home Lab
 
-When I'm not breaking things professionally, I'm breaking them at home — running Proxmox, hoarding 100TB+ of data I'll definitely need someday, and cosplaying as a sysadmin with my own VLANs, self-hosted services, and a NAS that has absolutely no business existing in a residential property. It's cheaper than therapy and twice as educational.
+When I'm not researching threats professionally, I'm breaking things at home — running Proxmox, hoarding 100TB+ of data I'll definitely need someday, and cosplaying as a sysadmin with my own VLANs, self-hosted services, and a NAS that has absolutely no business existing in a residential property. It's cheaper than therapy and twice as educational.
 
 ---
 
@@ -200,8 +215,10 @@ When I'm not breaking things professionally, I'm breaking them at home — runni
 
 ```bash
 ┌──(mrwhiskers㉿kali)-[~]
-└─$ cat ctf_status.txt
+└─$ cat research_status.txt
 
+  Day Job    : Threat research @ Immersive Labs (Container 7) —
+               emerging threats, CVE analysis, hands-on labs
   Platform   : HackTheBox — Season 10 (Active)
   Focus      : CVE exploitation, privilege escalation chains,
                post-exploitation enumeration techniques
@@ -219,7 +236,7 @@ When I'm not breaking things professionally, I'm breaking them at home — runni
 |----------|------|
 | 🐦 Twitter / X | [@SecMrwhiskers](https://twitter.com/SecMrwhiskers) |
 | 💼 LinkedIn | [Daniel Little](https://www.linkedin.com/in/daniel-little-b4a171101/) |
-| 🏢 Employer | [URM Consulting](https://www.urmconsulting.com) |
+| 🏢 Employer | [Immersive Labs](https://www.immersivelabs.com) |
 | 💬 Stack Overflow | [MrWhiskers](https://stackoverflow.com/users/12071387/mrwhsikers) |
 
 </div>
