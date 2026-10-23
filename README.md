@@ -32,7 +32,7 @@
 ┌──(mrwhiskers㉿kali)-[~]
 └─$ cat about.txt
 
-  Role       : Penetration Tester @ URM Consulting
+  Role       : Threat Ressearcher @ Immersive Labs 
   Focus      : Web Applications · Active Directory · Cloud (AWS/Azure/GCP)
                Build Reviews · Mobile · Network Infrastructure
   Interests  : CTF Competitions · Tool Development · Home Lab · Automation
